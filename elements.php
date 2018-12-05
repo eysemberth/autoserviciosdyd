@@ -27,8 +27,8 @@
           <li class="active"><a href="elements.php">Contáctenos</a></li>
         </ul>
         <ul class="icons">
-          <li><a href="https://www.facebook.com/Autoserviciosdyd-384864998605816" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-          <li><a href="https://www.instagram.com/autoserviciosdyd/" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="https://www.facebook.com/Autoserviciosdyd-384864998605816" target="_blank" class="icon fa-facebook" style="color: black;"><span class="label">Facebook</span></a></li>
+          <li><a href="https://www.instagram.com/autoserviciosdyd/" target="_blank" class="icon fa-instagram" style="color: black;"><span class="label">Instagram</span></a></li>
         </ul>
       </nav>
 
