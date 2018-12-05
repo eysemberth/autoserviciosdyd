@@ -13,7 +13,7 @@
     <div id="wrapper" class="fade-in">
       <center>
         <div style="align-content: center; margin-top: 30px; margin-bottom: -190px;">
-          <a href="index.html" style="background-color: transparent; border: none;"><img src="images/LOGO1.png"></a>
+          <a href="index.php" style="background-color: transparent; border: none;"><img src="images/LOGO1.png"></a>
         </div>
       </center>
       <!-- Intro -->
@@ -29,15 +29,15 @@
       
       <!-- Header -->
       <header id="header">
-        <a href="index.html" class="logo" style="background-color: rgb(255, 255, 255,0.7);"><img src="images/LOGO1.png"></a>
+        <a href="index.php" class="logo" style="background-color: rgb(255, 255, 255,0.7);"><img src="images/LOGO1.png"></a>
       </header>
       
       <!-- Nav -->
       <nav id="nav">
         <ul class="links">
-          <li class="active"><a href="index.html">Inicio</a></li>
-          <li><a href="generic.html">Acerca de Nosotros</a></li>
-          <li><a href="elements.html">Contáctenos</a></li>
+          <li class="active"><a href="index.php">Inicio</a></li>
+          <li><a href="generic.php">Acerca de Nosotros</a></li>
+          <li><a href="elements.php">Contáctenos</a></li>
         </ul>
         <ul class="icons">
           <li><a href="https://www.facebook.com/Autoserviciosdyd-384864998605816" target="_blank" class="icon fa-facebook" style="color: black;"><span class="label">Facebook</span></a></li>
