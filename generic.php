@@ -15,7 +15,7 @@
     <div id="wrapper">
 
       <!-- Header -->
-      <header id="header">
+      <header id="header" style=" margin-top: 30px;">
         <a href="index.php" class="logo" style="background-color: rgb(255, 255, 255,0.7);"><img src="images/LOGO1.png"></a>
       </header>
 
