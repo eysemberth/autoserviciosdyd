@@ -44,11 +44,19 @@
           <div class="image main"><img src="images/pic01.jpg" alt="" /></div>
 
           <h3>Misión</h3>
-          <p>Ser intermediarios visuales entre el cliente y el público al que está dirigido, ofreciendole los materiales y las herramientas que le permitan captar la atención del público al que están dirigidos.</p>
+          <p>Autoservicios DYD nace con clara vocación de prestar un servicio integral dentro de la industria
+            gráfica tanto a nivel nacional como internacional desarrollando trabajos de forma ágil y
+            excelente teniendo como prioridad la calidad y total satisfacción del cliente, aprovechando
+            todos nuestros procesos completamente integrados y en constante actualización y evolución.
+            Especializados en diseño gráfico, impresión digital y offset, sublimación y una amplia gama
+            de acabados para hacer referencia y marcar siempre la distinción en nuestro trabajo.</p>
 
           <h3>Visión</h3>
-          <p>Como empresa, nuestros esfuerzos se orientan a estar siempre a la vanguardia de la industria de Diseño y Publicidad.</p>
-          <p>A partir de esa premisa, el objetivo es cumplir con las exigencias de una clientela que avanza hacia la expansión, creando valor a largo plazo para consumidores y las sociedades donde operamos.</p>
+          <p>Ser una empresa líder en el sector de las artes gráficas y acabados, ofreciendo
+            productos y servicios de calidad cumpliendo y garantizando las espectativas
+            de nuestros clientes. Todo ello a través de la contínua adaptación e
+            innovacón a la evolución tecnológica y a nuestros procesos integrados
+            tanto humanos como industriales.</p>
         </section>
 
       </div>
