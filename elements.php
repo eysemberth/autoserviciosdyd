@@ -67,8 +67,10 @@
           </section>
           <section>
             <h3>Teléfono</h3>
-            <p><a href="#">0986 781-965 <br></a></p>
-            <p><a href="#">0991 231-337</a></p>
+            <ul>
+              <li><a href="#">0986 781-965</a></li>
+              <li><a href="#">0991 231-337</a></li>
+            </ul>
           </section>
           <section>
             <h3>Correo</h3>
